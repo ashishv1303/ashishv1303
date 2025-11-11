@@ -27,7 +27,7 @@
 
 ---
 
-### Connect with me
+### Connect with me.😇
 
 <!-- Update your handles/links below -->
 
@@ -40,14 +40,26 @@
 
 ---
 
-### About Me
+### About Me.😊
 
-- 🧑‍🎓 A CSE Junior at VIT Bhopal  
-- 🧑‍💻 Front‑end Web Developer · UI/UX Designer  
-- 📚 Learning Data Structures and Algorithms  
-- 🎧 Fun fact: I can spend 12 hours listening to music  
-- 🤝 Open to collaborating on HTML, CSS, and JavaScript projects  
-- 📫 Reach me at: <damoravis5408@gmail.com>
+<img align="right" alt="3D Avatar" width="180" src="https://i.imgur.com/VJt0Z3T.png" />
+
+- 🧑‍🎓 A CSE Junior at VIT Bhopal.  
+- 🧑‍💻 Front‑end Web Developer · UI/UX Designer.  
+- 📚 Learning DATA STRUCTURES AND ALGORITHM'S.  
+- 🎧 FUN fact: I spend almost 12 hours listening Music.  
+- 🤝 I'm looking to collaborate on projects including HTML, CSS and Javascript.  
+- 📫 How to reach me: <damoravis5408@gmail.com>
+
+<!-- Code · Eat · Sleep · Repeat -->
+<div>
+  <img src="https://img.shields.io/badge/Code-000?style=flat-square&labelColor=000&color=blue" />
+  <img src="https://img.shields.io/badge/Eat-000?style=flat-square&labelColor=000&color=success" />
+  <img src="https://img.shields.io/badge/Sleep-000?style=flat-square&labelColor=000&color=informational" />
+  <img src="https://img.shields.io/badge/Repeat-000?style=flat-square&labelColor=000&color=orange" />
+  <img src="https://img.shields.io/badge/☕-Coffee-000?style=flat-square&labelColor=000&color=yellow" />
+  <img src="https://img.shields.io/badge/🎵-Lofi-000?style=flat-square&labelColor=000&color=9cf" />
+</div>
 
 ---
 
@@ -69,7 +81,7 @@
 
 ---
 
-### GitHub Stats
+### Stats
 
 <div align="center">
   
@@ -92,7 +104,7 @@
 
 ---
 
-### Activity Graph
+### My Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravithemore&theme=redical&hide_border=true" alt="activity graph" />
